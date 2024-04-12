@@ -141,14 +141,16 @@ Instance-level label의 정확한 정보는 없지만 이러한 방식으로 Obj
 ## Dataset Description
 
 <p>
-<img src='img/dataset_description.png', align='left'>
+<img src='img/dataset_description.png'>
 </p>
 
 <p>
 <img src='img/dataset_description_2.png', align='left'>
 </p>
 
+
 ## Results
+
 <p>
 <img src='img/results.png', align='left'>
 </p>
